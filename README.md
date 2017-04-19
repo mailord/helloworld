@@ -144,4 +144,3 @@ add few more languages
 
 Inspired by [99bottles](http://www.99-bottles-of-beer.net/).
 
-11
